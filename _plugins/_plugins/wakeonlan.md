@@ -1,3 +1,4 @@
+---
 layout: plugin
 
 id: wakeonlan
@@ -20,3 +21,4 @@ tags:
 
 compatibility:
   python: ">=3,<4"
+---
