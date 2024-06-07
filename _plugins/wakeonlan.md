@@ -20,33 +20,36 @@ tags:
   - utility
 
 screenshots: 
-  https://github.com/Aridor2003/OctoPrint-Wakeonlan/blob/main/raw/master/screenshots/OctoPrint-Navbar.png
-  https://github.com/Aridor2003/OctoPrint-Wakeonlan/blob/main/raw/master/screenshots/OctoPrint-Settings.png
+  - /assets/img/plugins/wakeonlan/OctoPrint-Navbar.png
+  - /assets/img/plugins/wakeonlan/OctoPrint-Settings.png
 
 compatibility:
   python: ">=3,<4"
 ---
 # OctoPrint Wake-on-LAN Plugin
 
-An OctoPrint PlugIn letting you turn on your computer from anywhere using a raspberry pi.
-To use the PlugIn just download the zip and install using the plugin Manager and input your Mac address in the settings
+An OctoPrint Plugin letting you turn on your computer from anywhere using a raspberry pi.
+To use the Plugin just download the zip and install using the plugin Manager and input your Mac address in the settings
 
-Overview:
+**Overview:**
+
 The OctoPrint Wake-on-LAN (WoL) Plugin adds the capability to send Wake-on-LAN packets to designated devices directly from the OctoPrint interface. This is useful for waking up networked devices such as printers or computers before starting a print job.
 
-Features:
+**Features:**
+
 Send Wake-on-LAN packets with a click of a button.
-Configure MAC addresses for target devices.
+Configure MAC addresses for target device.
 Easy-to-use interface integrated into OctoPrint.
-Installation
-Prerequisites
+
+**Prerequisites:**
+
 OctoPrint instance up and running.
 Networked device(s) with Wake-on-LAN capability enabled.
 
 After the plugin is installed, OctoPrint will prompt you to restart.
 Click Restart Now to apply the changes.
 
-**Configuration**
+**Configuration:**
 
 Access Plugin Settings:
 
@@ -59,7 +62,7 @@ Save Settings:
 
 Click Save to store the device configuration.
 
-**Usage**
+**Usage:**
 
 Wake Device:
 
@@ -69,14 +72,14 @@ In the OctoPrint interface, click the wake on lan button in the navbar.
 
 Ensure the target device powers on and is ready for use.
 
-**Troubleshooting**
+**Troubleshooting:**
 
 Device Not Waking Up:
 Verify the MAC address is correct.
 Ensure Wake-on-LAN is enabled on the target device.
 Check network configuration and ensure the device is reachable.
 
-**Contributing**
+**Contributing:**
 
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request on GitHub.
 
