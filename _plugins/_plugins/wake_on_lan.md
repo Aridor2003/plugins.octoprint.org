@@ -12,7 +12,7 @@ date: 2024-07-06
 
 homepage: https://github.com/Aridor2003/OctoPrint-Wakeonlan
 source: https://github.com/Aridor2003/OctoPrint-Wakeonlan
-archive: https://github.com/Aridor2003/OctoPrint-Wakeonlan/archive/master.zip
+archive: https://github.com/Aridor2003/OctoPrint-Wakeonlan/archive/main.zip
 
 tags:
   - network
