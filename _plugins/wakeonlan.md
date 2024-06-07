@@ -5,8 +5,8 @@ id: wakeonlan
 title: Wake-on-LAN
 description: An OctoPrint plugin to send Wake-on-LAN packets.
 authors:
-  - Aridor Joskowich
-  - Itay Zelikovich
+- Aridor Joskowich
+- Itay Zelikovich
 license: AGPLv3
 
 date: 2024-07-06
@@ -16,12 +16,12 @@ source: https://github.com/Aridor2003/OctoPrint-Wakeonlan
 archive: https://github.com/Aridor2003/OctoPrint-Wakeonlan/archive/main.zip
 
 tags:
-  - network
-  - utility
+- network
+- utility
 
 screenshots: 
-  - /assets/img/plugins/wakeonlan/OctoPrint-Navbar.png
-  - /assets/img/plugins/wakeonlan/OctoPrint-Settings.png
+- url:  /assets/img/plugins/wakeonlan/OctoPrint-Navbar.png
+- url:  /assets/img/plugins/wakeonlan/OctoPrint-Settings.png
 
 compatibility:
   python: ">=3,<4"
