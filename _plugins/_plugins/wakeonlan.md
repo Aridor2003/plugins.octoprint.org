@@ -20,8 +20,8 @@ tags:
   - utility
 
 screenshots: 
-  https://github.com/Aridor2003/OctoPrint-Wakeonlan/blob/main/raw/master/screenshots/OctoPrint-Navbar.png
-  https://github.com/Aridor2003/OctoPrint-Wakeonlan/blob/main/raw/master/screenshots/OctoPrint-Settings.png
+  https://github.com/Aridor2003/OctoPrint-Wakeonlan/blob/main/raw/master/screenshots/OctoPrint-Navbar
+  https://github.com/Aridor2003/OctoPrint-Wakeonlan/blob/main/raw/master/screenshots/OctoPrint-Settings
 
 compatibility:
   python: ">=3,<4"
